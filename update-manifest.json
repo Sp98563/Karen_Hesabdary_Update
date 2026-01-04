@@ -2,9 +2,9 @@
   "ver": 1,
   "appId": "YourApp",
   "latestVersion": "1.0.1.2",
-  "publishedAt": "2026-01-04T13:05:25.7859704+00:00",
-  "installerUrl": "https://github.com/Sp98563/Karen_Hesabdary_Update/releases/download/v1.0.0/mysetup.exe",
-  "sha256Hex": "C6255BFB9BBB6D50662B06F93FBB57385F7CF2976A7DADF5C91269B29B0D1646",
+  "publishedAt": "2026-01-04T13:23:35.7064687+00:00",
+  "installerUrl": "https://github.com/Sp98563/Karen_Hesabdary_Update/releases/download/v1.0.1.2/mysetup.exe",
+  "sha256Hex": "D408111316E13FEC33E47EF2A15321A9841F01B126DD5C0FA49F6109C8417007",
   "minRequiredVersion": "1.0.0",
   "notes": ""
 }
